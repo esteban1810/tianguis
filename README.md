@@ -10,3 +10,4 @@
 
 #### 28 Diciembre 2021
 ##### -Validar cuando se asigna puestos vacantes no sean mas a lo del puesto
+##### -Sincronizacion inicial y actualizacion(mostrar alertas)
