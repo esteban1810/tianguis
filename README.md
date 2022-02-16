@@ -1,3 +1,11 @@
+### Version 1.3.3
+
+#### 15 Febrero 2022
+##### -Bloquear rolero cuando se asigna
+##### -Se cobra a rolero en escanear QR
+##### -Asignacion de metros de rol en ticket
+
+
 ### Version 1.3.2
 
 #### 27 Diciembre 2021
