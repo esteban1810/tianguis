@@ -1,3 +1,10 @@
+### Version 1.3.9
+
+#### 23 Marzo 2022
+##### -QR Asistencia Rol, cobro Escaneando QR
+
+
+
 ### Version 1.3.8
 
 #### 15 Febrero 2022
