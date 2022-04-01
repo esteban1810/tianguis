@@ -1,6 +1,6 @@
 ### Version 1.4.0
 
-#### 01 Abrol 2022
+#### 01 Abril 2022
 ##### -Redondeo en cobro de Rol
 
 
