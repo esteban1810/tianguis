@@ -1,3 +1,9 @@
+### Version 1.4.1
+
+#### 03 Mayo 2022
+##### -Asistencia con codigo QR
+
+
 ### Version 1.4.0
 
 #### 01 Abril 2022
