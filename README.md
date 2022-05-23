@@ -1,3 +1,8 @@
+### Version 1.4.2
+
+#### 23 Mayo 2022
+##### -Impresión correcta con redondeo
+
 ### Version 1.4.1
 
 #### 03 Mayo 2022
