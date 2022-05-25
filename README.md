@@ -1,3 +1,8 @@
+### Version 1.4.3
+
+  #### 24 Mayo 2022
+   ##### -Fix impresion primera vez
+
 ### Version 1.4.2
 
   #### 23 Mayo 2022
