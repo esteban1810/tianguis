@@ -1,3 +1,11 @@
+### Version 1.4.5
+
+  #### 09 Junio 2022
+   ##### -Fix Validar que no se asigne a espacio negro
+   ##### -Fix Mostrar los puestos vacantes
+   ##### -Mostrar mensaje cuando no encuentra un puesto de ese dia
+   ##### -Enviar datos con, sin internet e interupción 
+
 ### Version 1.4.3
 
   #### 24 Mayo 2022
